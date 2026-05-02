@@ -95,26 +95,19 @@ python github_user_finder.py
 3.Пользователь появляется на вкладке «Избранное»
 
 ###**Содержимое favorites.json:**
-json
+```json
 {
   "torvalds": {
-  
-    "login": "torvalds",
-    
-    "name": "Linus Torvalds",
-    
-    "followers": 180000,
-    
-    "public_repos": 12,
-    
+    "login": "torvalds",    
+    "name": "Linus Torvalds",   
+    "followers": 180000,   
+    "public_repos": 12,    
     "avatar_url": "https://avatars.githubusercontent.com/u/1024025",
-    
     "html_url": "https://github.com/torvalds",
-    
     "added_at": "2026-05-02T15:30:45.123456"
   }
 }
-
+```
 ##**Тестирование**
 
 | Ошибка | Причина | Решение |
