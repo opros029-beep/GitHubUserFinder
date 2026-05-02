@@ -98,12 +98,19 @@ python github_user_finder.py
 json
 {
   "torvalds": {
+  
     "login": "torvalds",
+    
     "name": "Linus Torvalds",
+    
     "followers": 180000,
+    
     "public_repos": 12,
+    
     "avatar_url": "https://avatars.githubusercontent.com/u/1024025",
+    
     "html_url": "https://github.com/torvalds",
+    
     "added_at": "2026-05-02T15:30:45.123456"
   }
 }
