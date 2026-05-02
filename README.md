@@ -21,22 +21,13 @@
 - **Библиотеки:**`pip install requests`
 
 ## **Как запустить**
-###**Способ 1 (если есть git):**
+(нужен git)
 ```bash 
 git clone https://github.com/ваш-логин/github-user-finder.git
 cd github-user-finder
 python github_user_finder.py
 ```
-###**Способ 2 (без git):**
-1.Скачайте файл github_user_finder.py
 
-2.Откройте терминал в папке с файлом
-
-3.Выполните команду:
-```
-bash
-python github_user_finder.py
-```
 ##**Как пользоваться**
 
 ###**Пошаговая инструкция:**
@@ -117,7 +108,7 @@ python github_user_finder.py
 | «Нет подключения к интернету» | Отсутствует интернет | Проверьте соединение |
 
 ##**Ссылка на GitHub**
-
+https://github.com/opros029-beep/GitHubUserFinder.git
 
 ##**Источники**
 
